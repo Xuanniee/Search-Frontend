@@ -1,0 +1,167 @@
+.form-control-modified
+{
+    width: 30%;
+    display: inline-block;
+}
+
+%advanced_search
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    margin-top: 5%;
+
+    text-align: left;
+}
+
+.adv-headings
+{
+    @extend %advanced_search;
+    font-size: 200%;
+    border-bottom: 2px black;
+    color: #AA0000;
+}
+
+.adv-titles
+{
+    @extend %advanced_search;
+    font-size: 130%;
+    margin-top: 1%;
+}
+
+.adv-titles-sm
+{
+    @extend %advanced_search;
+    font-size: 110%;
+    margin-top: 0.4%;
+}
+
+.adv-table
+{
+    display: table-row;
+}
+
+.adv-tablecell
+{
+    display: table-cell;
+    padding-top: 3%;
+    width: 30%;
+}
+.adv-tablecell-field
+{
+    display: table-cell;
+    padding-top: 3%;
+    width: 110%;
+    height: 60%;
+}
+
+.adv-button
+{
+    margin-left: 33%;
+}
+
+.idk
+{
+    display: block;
+}
+
+%search_logo
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+
+    text-align: center;
+}
+
+.search_logo
+{
+    @extend %search_logo;
+    margin-top: 13%;
+
+}
+
+.red
+{
+    @extend %search_logo;
+    color: red;
+    font-size: 400%;
+
+}
+
+.blue
+{
+    @extend %search_logo;
+    color: blue;
+    font-size: 400%;
+
+}
+
+.green
+{
+    @extend %search_logo;
+    color: green;
+    font-size: 400%;
+
+}
+
+.yellow
+{
+    @extend %search_logo;
+    color: #F6BE00;
+    font-size: 400%;
+
+}
+
+.black
+{
+    @extend %search_logo;
+    color: black;
+    font-size: 400%;
+
+}
+
+.black-small
+{
+    @extend %search_logo;
+    color: black;
+    margin: auto;
+}
+
+.red-advi
+{
+    @extend %search_logo;
+    color: red;
+    font-size: 150%;
+    margin: auto;
+}
+
+.blue-adv
+{
+    @extend %search_logo;
+    color: blue;
+    font-size: 150%;
+    margin: auto;
+}
+
+.green-adv
+{
+    @extend %search_logo;
+    color: green;
+    font-size: 150%;
+    margin: auto;
+}
+
+.black-adv
+{
+    @extend %search_logo;
+    color: black;
+    font-size: 150%;
+    margin: auto;
+}
+
+.yellow-adv
+{
+    @extend %search_logo;
+    color: #F6BE00;
+    font-size: 150%;
+    margin: auto;
+}
