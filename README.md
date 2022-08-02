@@ -6,12 +6,21 @@ Search is a frontend clone of Google Search. This project was started so that I 
 ## Content
 Implemented Google Search, Google Image Search, and Google Advanced Search.
 
+### 1. Google Search
+![Picture of Google Search Clone](./Images/Google%20Search.png?raw=true "Google Search")
+
+### 2. Google Image Search
+
+### 3. Google Advanced Search
+
 
 ## How to Use
 
 
 ## Learning Outcomes
-* Learnt Basic HTML Tags
-* Learnt Basic CSS Properties and Classes
-* Learnt about Inheritance and Variables in Syntactically Awesome Style Sheets
-* Learnt how to convert SASS into CSS
+* Learnt about the Document Object Model in HTML.
+* Learnt about HTML Attributes like onclick.
+* Learnt Basic HTML Tags like <p>, <img>, <a>, <div>.
+* Learnt Basic CSS Properties and Classes.
+* Learnt about Inheritance and Variables in Syntactically Awesome Style Sheets.
+* Learnt how to convert SASS into CSS.
