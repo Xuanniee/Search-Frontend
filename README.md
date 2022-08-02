@@ -39,3 +39,6 @@ Install all of the files hosted on Github and install Python3 and http-server. U
 * Learnt Basic CSS Properties and CSS Selectors.
 * Learnt about Inheritance and Variables in Syntactically Awesome Style Sheets.
 * Learnt how to convert SASS into CSS.
+
+## Video Link
+https://youtu.be/FDMuz3w-KUo
