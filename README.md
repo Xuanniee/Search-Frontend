@@ -1,7 +1,8 @@
 # Search Engine (Frontend)
 
 ## Project Description
-Search is a frontend clone of Google Search. This project was started so that I could familiarise myself with the basics of HTML, CSS, and SCSS. Hence, the actual implementation of the search was done using Google's own search engine. Throughout the project, I found it daunting to mimic Google's own CSS. This is because Google had appeared to encrypt the exact CSS properties they were using, preventing me from using it as reference.
+Search is a frontend clone of Google Search. 
+This project was started so that I could familiarise myself with the basics of HTML, CSS, and SCSS. Hence, the actual implementation of the search was done using Google's own search engine. Throughout the project, I found it daunting to mimic Google's own CSS. This is because Google had appeared to encrypt the exact CSS properties they were using, preventing me from using it as reference.
 
 ## Content
 Implemented Google Search, Google Image Search, and Google Advanced Search. There is also a navigation bar implemented on the top right corner of all 3 Pages that allows the User to traverse between the 3 types of Searches.
@@ -9,7 +10,8 @@ Implemented Google Search, Google Image Search, and Google Advanced Search. Ther
 ### 1. Google Search
 ![Picture of Google Search Clone](./Images/Google%20Search.png?raw=true "Google Search")
 
-Typing in a query like "Cats" and clicking Enter will redirect the User to the Google Search Results Page for "Cats". Using SASS and CSS, the Input Field and Buttons have been modified to resemble Google's very own as close as possible. Moreover, an "I am feeling lucky" button has been added to the Search Page as well, which will bring the User to the first search result instead of a page of results.
+Typing in a query like "Cats" and clicking Enter will redirect the User to the Google Search Results Page for "Cats". Using SASS and CSS, the Input Field and Buttons have been modified to resemble Google's very own as close as possible. 
+Moreover, an "I am feeling lucky" button has been added to the Search Page as well, which will bring the User to the first search result instead of a page of results.
 
 ### 2. Google Image Search
 ![Picture of Google Image Search Clone](./Images/Google%20Image%20Search.png?raw=true "Google Image Search")
