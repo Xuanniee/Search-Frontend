@@ -10,8 +10,10 @@ Implemented Google Search, Google Image Search, and Google Advanced Search.
 ![Picture of Google Search Clone](./Images/Google%20Search.png?raw=true "Google Search")
 
 ### 2. Google Image Search
+![Picture of Google Image Search Clone](./Images/Google%20Image%20Search.png?raw=true "Google Image Search")
 
 ### 3. Google Advanced Search
+![Picture of Google Advanced Search Clone](./Images/Google%20Advanced%20Search.png?raw=true "Google Advanced Search")
 
 
 ## How to Use
